@@ -115,16 +115,16 @@
 ### MYSQL_Setup = (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/MySql_setup)
 
 ### 21. Insert_Coffee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8a-insert_coffee/8a_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/8a.JDBC/8A.png)  
 
 ### 22. Update_Coffee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8b-Update_Coffee/8b_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/8b.jdbc/8B.png)  
 
 ### 23. append_Employee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8c-append_Employee/8c_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/8c.jdbc/8c.jpg)  
 
 ### 24. Update_Employee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-8-Coffee-Employee_jdbc/8d-Update_Employee/8d_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/8d.jdbc/8D.jpg)  
 
 ---
 
