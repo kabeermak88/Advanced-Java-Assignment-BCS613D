@@ -133,13 +133,13 @@
 ### MYSQL_Setup = (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/MySql_setup)
 
 ### 25. Delete_Coffee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9a-Delete_Coffee/9a_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/Delete_Coffee/9a%20(2).png)  
 
 ### 26. Query_Coffee_Starts_with_D  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9b-Query_Coffee/9b_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/Query_Coffee/9B.png)  
 
 ### 27. append_Report  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9c-append/9c_output.png)  
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/9c.append/9C.png)  
 
 ### 28. Delete_Employee  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9d-delete_emp/9d_output.png)    this is the format i want the readme file that i will provide u okay
+- **Output =>** (https://github.com/kabeermak88/Advanced-Java-Assignment-BCS613D/blob/main/9.JDBC/9d.Delete/9d%20(2).png)    
